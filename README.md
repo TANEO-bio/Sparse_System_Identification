@@ -1,1 +1,3 @@
 # Sparse_System_Identification
+2020年度IEICE SeMI研にて発表．
+スパースモデリングを用いた適応フィルタによるシステム同定．
